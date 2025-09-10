@@ -30,6 +30,7 @@ This dataset includes order details, shipping information, product details, sale
 ## Dashboard
 
 *(Placeholder for Dashboard Screenshot)*
+<img width="2399" height="1350" alt="Screenshot 2025-09-10 173337" src="https://github.com/user-attachments/assets/ad0d1b13-b4b2-4504-9508-cce5b37e548c" />
 
 ## Project Insights
 
